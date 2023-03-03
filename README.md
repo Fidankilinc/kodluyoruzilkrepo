@@ -27,4 +27,4 @@ Linux için:
 ### Proje görseli
 
 
-![image banner]()
+![image banner](https://raw.githubusercontent.com/Fidankilinc/kodluyoruzilkrepo/4011b3d0d7514838e5ac6f2a50f507cd940571a0/2023-03-03%20(3).png)
